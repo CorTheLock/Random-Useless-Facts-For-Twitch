@@ -1,4 +1,6 @@
-# Random-Useless-Facts-List-for-Twitch
+# Want some random useless facts to post in your stream to not only kill bordom but to make people go 'hmm..interesting'? well here ya go!
+
+Random-Useless-Facts-List-for-Twitch
 HOW TO USE THIS COMMAND / SCRIPT!
 Put this in a place you can find easily for random useless facts for Ankhbot:
 # Use the command line: !facts
