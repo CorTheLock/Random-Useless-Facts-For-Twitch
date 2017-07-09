@@ -5,3 +5,4 @@ HOW TO USE THIS COMMAND / SCRIPT!
 Put this in a place you can find easily for random useless facts for Ankhbot:
 - Use the command line: !facts
 -The responce line is: $readrandline(Filelication\FileName)
+((Example $readrandline(c:\users\NAME\appData\roaming\ankhheart\ankhbotr2\twitch\files\facts.txt)
